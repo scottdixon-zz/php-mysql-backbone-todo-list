@@ -1,0 +1,18 @@
+body {
+  background: #eee;
+  padding: 0 25px;
+  font-family: arial, sans-serif;
+  text-align: center;
+}
+#app{
+  width: 500px;
+  margin: auto;
+  background: white;
+  padding: 50px 60px;
+  border: solid #ddd;
+  border-width: 0 1px 1px 1px;
+  text-align: left;
+}
+#app h1{
+  margin:0 0 10px;
+}
